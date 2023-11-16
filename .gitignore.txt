@@ -1,0 +1,2 @@
+word2veccbow_model.bin
+fasttextcbow_model.bin
