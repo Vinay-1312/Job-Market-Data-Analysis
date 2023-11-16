@@ -612,7 +612,7 @@ def mainfunction(title):
     experience = {"entry level":0,"Mid Level":0,"Senior Level":0}
     experienceList = []
     jobTyperemote = {"remote":0,"hybrid":0,"onsite":0}
-    openai.apikey = "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"
+    openai.apikey = ""
     c =0 
     
     for desc in allDescription[0:50]:
